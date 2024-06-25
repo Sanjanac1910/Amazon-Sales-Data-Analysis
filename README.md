@@ -19,7 +19,14 @@ Python
 Google Colab, MS
 Excel, MS Power BI
 
-I would love to share the Architecture and overall Analysis of the project which I got during an Internship in Unified Mentor 
+I would love to share the Architecture and overall Analysis of the project which I got during an Internship in Unified Mentor :
+
+The Architecture of the Project :
+<img width="1000" alt="Screenshot 2024-06-25 at 3 17 04 PM" src="https://github.com/Sanjanac1910/Amazon-Sales-Data-Analysis/assets/173784353/472ba181-2f1d-48b8-97a5-e00625798073">
+
+The overall Analysis of the Project :
+
+
 
 
 
