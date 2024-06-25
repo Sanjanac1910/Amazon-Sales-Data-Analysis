@@ -25,6 +25,9 @@ The Architecture of the Project :
 <img width="1000" alt="Screenshot 2024-06-25 at 3 17 04 PM" src="https://github.com/Sanjanac1910/Amazon-Sales-Data-Analysis/assets/173784353/472ba181-2f1d-48b8-97a5-e00625798073">
 
 The overall Analysis of the Project :
+<img width="814" alt="image" src="https://github.com/Sanjanac1910/Amazon-Sales-Data-Analysis/assets/173784353/0b44bdbc-3af4-4952-a382-83b3fecdf88d">
+
+Thank you Unified Mentor for this opportunity.
 
 
 
